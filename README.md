@@ -1,15 +1,17 @@
 # Wildfires-Prediction
 1. Introduction and Objective
-3. Data Dictionary
-4. Data Pre-processing
-5. Feature Engineering
-6. Model Development
-7. Results
+2. Data Dictionary
+3. Data Pre-processing
+4. Feature Engineering
+5. Model Development
+6. Results
 
 #Introduction
+
 Due to global warming, wildfires have become more frequent. This elevates the importance of prediction of wildfires. Objective of this project is predicting frequency of wildfires to a forest, which helps in better management of resources and reduce the effect of disaster. 
 
 #Data Sources and Data Dictionary
+
 1. Train.csv - This file consists of wildfires frequency along with the date it happened and the reporting unit
 
 2. InyoNationalForest.nc - This file is the weather data which consists of the following attributes
